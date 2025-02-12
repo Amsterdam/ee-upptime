@@ -5,10 +5,9 @@ repo: amsterdam-ee-upptime
 sites:
   - name: Data Amsterdam
     # url: ${{ secrets.DATA_AMSTERDAM_URL }}
-    url: https://data.amsterdam.nl
+    url: https://www.data.amsterdam.nl
   - name: Google
-    # url: ${{ secrets.GOOGLE_URL }}
-    url: https://google.com
+    url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
