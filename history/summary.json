@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-amsterdam",
     "status": "down",
-    "uptime": "1.13%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "1.13%",
-    "uptimeMonth": "1.13%",
-    "uptimeYear": "1.13%",
+    "uptime": "1.11%",
+    "uptimeDay": "1.11%",
+    "uptimeWeek": "1.11%",
+    "uptimeMonth": "1.11%",
+    "uptimeYear": "1.11%",
     "time": 576,
     "timeDay": 576,
     "timeWeek": 576,
     "timeMonth": 576,
     "timeYear": 576,
     "dailyMinutesDown": {
-      "2025-02-12": 188
+      "2025-02-12": 191
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-website",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 0
+      "2025-02-12": 3
     }
   },
   {
@@ -46,8 +46,8 @@
     "slug": "google",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "97.04%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 116,
@@ -56,7 +56,7 @@
     "timeMonth": 116,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2025-02-12": 42
+      "2025-02-12": 45
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 135,
-    "timeDay": 135,
-    "timeWeek": 135,
-    "timeMonth": 135,
-    "timeYear": 135,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -88,29 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 342,
-    "timeDay": 342,
-    "timeWeek": 342,
-    "timeMonth": 342,
-    "timeYear": 342,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Test Broken Site",
-    "url": "https://thissitedoesnotexist.koj.co",
-    "icon": "https://icons.duckduckgo.com/ip3/thissitedoesnotexist.koj.co.ico",
-    "slug": "test-broken-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
