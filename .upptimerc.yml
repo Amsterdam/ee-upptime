@@ -1,12 +1,12 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: amsterdam
+repo: amsterdam-ee-upptime 
 
 sites:
   - name: Data Amsterdam
     url: ${{ secrets.DATA_AMSTERDAM_URL }}
   - name: Google
-    url: https://www.google.com
+    url: ${{ secrets.GOOGLE_URL }}
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
