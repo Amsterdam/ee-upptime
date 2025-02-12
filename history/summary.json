@@ -1,22 +1,22 @@
 [
   {
     "name": "Data Amsterdam",
-    "url": "${{ secrets.DATA_AMSTERDAM_URL }}",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://data.amsterdam.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/data.amsterdam.nl.ico",
     "slug": "data-amsterdam",
-    "status": "down",
-    "uptime": "1.09%",
-    "uptimeDay": "1.09%",
-    "uptimeWeek": "1.09%",
-    "uptimeMonth": "1.09%",
-    "uptimeYear": "1.09%",
-    "time": 576,
-    "timeDay": 576,
-    "timeWeek": 576,
-    "timeMonth": 576,
-    "timeYear": 576,
+    "status": "up",
+    "uptime": "1.04%",
+    "uptimeDay": "1.04%",
+    "uptimeWeek": "1.04%",
+    "uptimeMonth": "1.04%",
+    "uptimeYear": "1.04%",
+    "time": 524,
+    "timeDay": 524,
+    "timeWeek": 524,
+    "timeMonth": 524,
+    "timeYear": 524,
     "dailyMinutesDown": {
-      "2025-02-12": 195
+      "2025-02-12": 214
     }
   },
   {
@@ -25,38 +25,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-website",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-12": 7
+      "2025-02-12": 26
     }
   },
   {
     "name": "Google",
-    "url": "${{ secrets.GOOGLE_URL }}",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "96.61%",
-    "uptimeWeek": "99.52%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "95.25%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-02-12": 48
+      "2025-02-12": 68
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 167,
-    "timeDay": 167,
-    "timeWeek": 167,
-    "timeMonth": 167,
-    "timeYear": 167,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 325,
-    "timeDay": 325,
-    "timeWeek": 325,
-    "timeMonth": 325,
-    "timeYear": 325,
+    "time": 338,
+    "timeDay": 338,
+    "timeWeek": 338,
+    "timeMonth": 338,
+    "timeYear": 338,
     "dailyMinutesDown": {}
   },
   {
