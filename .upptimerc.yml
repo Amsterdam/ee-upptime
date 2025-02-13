@@ -8,7 +8,6 @@ sites:
   - name: Amsterdam website
     url: $SITE_AMSTERDAM_URL
   - name: Google
-    # url: https://www.google.com
     url: $SITE_GOOGLE_URL
   - name: Wikipedia
     url: https://en.wikipedia.org
