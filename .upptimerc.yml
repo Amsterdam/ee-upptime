@@ -1,11 +1,10 @@
 # Change these first
 owner: amsterdam
-repo: amsterdam-ee-upptime 
+repo: amsterdam-ee-upptime
 
 sites:
   - name: Data Amsterdam
-    # url: $DATA_AMSTERDAM_URL
-    url: https://data.amsterdam.nl
+    url: $SITE_URL_DATA_AMS
   - name: Amsterdam website
     url: $AMSTERDAM_URL
   - name: Google
