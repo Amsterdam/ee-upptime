@@ -4,8 +4,8 @@ repo: amsterdam-ee-upptime
 
 sites:
   - name: Data Amsterdam
-    url: $DATA_AMSTERDAM_URL
-    # url: https://data.amsterdam.nl
+    # url: $DATA_AMSTERDAM_URL
+    url: https://data.amsterdam.nl
   - name: Amsterdam website
     url: $AMSTERDAM_URL
   - name: Google
