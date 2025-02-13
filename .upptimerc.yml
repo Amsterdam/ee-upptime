@@ -3,10 +3,10 @@ owner: amsterdam
 repo: amsterdam-ee-upptime
 
 sites:
+  - name: Developers Amsterdam
+    url: $SITE_DEVELOPERS_AMSTERDAM
   - name: Data Amsterdam
     url: $SITE_URL_DATA_AMS
-  - name: Amsterdam website
-    url: $SITE_AMSTERDAM_URL
   - name: Iamsterdam website
     url: $IAMSTERDAM_URL
   - name: Google
