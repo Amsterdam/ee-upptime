@@ -6,7 +6,7 @@ sites:
   - name: Data Amsterdam
     url: $SITE_URL_DATA_AMS
   - name: Amsterdam website
-    url: $SITE_URL_AMSTERDAMNL
+    url: $SITE_AMSTERDAM_URL
   - name: Google
     # url: https://www.google.com
     url: $SITE_GOOGLE_URL
