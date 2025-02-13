@@ -9,7 +9,7 @@ sites:
     url: $SITE_URL_AMSTERDAMNL
   - name: Google
     # url: https://www.google.com
-    url: $GOOGLE_URL
+    url: $SITE_GOOGLE_URL
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
