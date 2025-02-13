@@ -4,12 +4,12 @@
     "url": "$SITE_URL_DATA_AMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-amsterdam",
-    "status": "up",
-    "uptime": "23.93%",
-    "uptimeDay": "26.48%",
-    "uptimeWeek": "23.93%",
-    "uptimeMonth": "23.93%",
-    "uptimeYear": "23.93%",
+    "status": "down",
+    "uptime": "24.15%",
+    "uptimeDay": "26.81%",
+    "uptimeWeek": "24.15%",
+    "uptimeMonth": "24.15%",
+    "uptimeYear": "24.15%",
     "time": 495,
     "timeDay": 490,
     "timeWeek": 495,
@@ -37,7 +37,7 @@
     "timeMonth": 401,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2025-02-13": 785,
+      "2025-02-13": 789,
       "2025-02-12": 627
     }
   },
