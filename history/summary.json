@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "data-amsterdam",
     "status": "up",
-    "uptime": "14.77%",
-    "uptimeDay": "14.77%",
-    "uptimeWeek": "14.77%",
-    "uptimeMonth": "14.77%",
-    "uptimeYear": "14.77%",
-    "time": 403,
-    "timeDay": 403,
-    "timeWeek": 403,
-    "timeMonth": 403,
-    "timeYear": 403,
+    "uptime": "15.41%",
+    "uptimeDay": "15.41%",
+    "uptimeWeek": "15.41%",
+    "uptimeMonth": "15.41%",
+    "uptimeYear": "15.41%",
+    "time": 440,
+    "timeDay": 440,
+    "timeWeek": 440,
+    "timeMonth": 440,
+    "timeYear": 440,
     "dailyMinutesDown": {
       "2025-02-13": 512,
       "2025-02-12": 705
@@ -22,7 +22,7 @@
   },
   {
     "name": "Amsterdam website",
-    "url": "$AMSTERDAM_URL",
+    "url": "$SITE_URL_AMSTERDAMNL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-website",
     "status": "down",
@@ -37,7 +37,7 @@
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2025-02-13": 611,
+      "2025-02-13": 621,
       "2025-02-12": 627
     }
   },
@@ -48,9 +48,9 @@
     "slug": "google",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "18.76%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "97.33%",
+    "uptimeDay": "18.02%",
+    "uptimeWeek": "88.29%",
+    "uptimeMonth": "97.31%",
     "uptimeYear": "99.78%",
     "time": 112,
     "timeDay": 112,
@@ -58,7 +58,7 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2025-02-13": 611,
+      "2025-02-13": 621,
       "2025-02-12": 559
     }
   },
@@ -73,11 +73,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 174,
-    "timeDay": 174,
-    "timeWeek": 174,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "time": 169,
+    "timeDay": 169,
+    "timeWeek": 169,
+    "timeMonth": 169,
+    "timeYear": 169,
     "dailyMinutesDown": {}
   },
   {
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 295,
-    "timeDay": 295,
-    "timeWeek": 295,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {}
   },
   {
