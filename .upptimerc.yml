@@ -9,6 +9,8 @@ sites:
     url: $SITE_AMSTERDAM_URL
   - name: Google
     url: $SITE_GOOGLE_URL
+  - name: Outlook
+    url: $SITE_OUTLOOK_URL
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
