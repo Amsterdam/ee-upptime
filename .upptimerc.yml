@@ -9,10 +9,14 @@ sites:
     url: $SITE_URL_DATA_AMS
   - name: Iamsterdam website
     url: $IAMSTERDAM_URL
-  - name: Google
-    url: $GOOGLE_URL
-  - name: Outlook
-    url: $SITE_OUTLOOK_URL
+  - name: Algoritme register Amsterdam
+    url: $ALGORITME_REGISTER_AMSTERDAM
+  - name: 3D Nederland
+    url: $NETHERLANDS_MAP
+  - name: Omslag route Amsterdam
+    url: $OMSLAG_ROUTE
+  - name: ZSM It for care
+    url: $ZSM_IT_FOR_CARE
   - name: Wikipedia
     url: https://en.wikipedia.org
 
