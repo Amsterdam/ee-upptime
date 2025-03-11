@@ -5,8 +5,6 @@ repo: amsterdam-ee-upptime
 sites:
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
-  - name: Data Amsterdam
-    url: $SITE_URL_DATA_AMS
   - name: Iamsterdam website
     url: $IAMSTERDAM_URL
   - name: Algoritme register Amsterdam
@@ -17,8 +15,6 @@ sites:
     url: $OMSLAG_ROUTE
   - name: ZSM It for care
     url: $ZSM_IT_FOR_CARE
-  - name: Wikipedia
-    url: https://en.wikipedia.org
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
