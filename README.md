@@ -1,4 +1,4 @@
-# [📈 Live Status](https://amsterdam.github.io/amsterdam-uptime/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://amsterdam.github.io/ee-upptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for Gemeente Amsterdam Applicaties, powered by [Upptime](https://github.com/upptime/upptime).
 
