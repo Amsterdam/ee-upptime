@@ -9,8 +9,6 @@ sites:
   #   url: $SITE_URL_DATA_AMS
   - name: Iamsterdam website
     url: $IAMSTERDAM_URL
-  # - name: Algoritme register Amsterdam
-  #   url: $ALGORITME_REGISTER_AMSTERDAM
   - name: 3D Nederland
     url: $NETHERLANDS_MAP
   - name: Omslag route Amsterdam
@@ -39,10 +37,10 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  graphs: "0 */2 * * *"
-  responseTime: "0 */2 * * *"
-  staticSite: "0 */12 * * *"
-  summary: "0 0 * * *"
-  updateTemplate: "0 0 * * *"
-  updates: "0 3 * * *"
-  uptime: "*/5 * * * *"
+  graphs: "* * * * *"
+  responseTime: "* * * * *"
+  staticSite: "* * * * *"
+  summary: "* * * * *"
+  updateTemplate: "* * * * *"
+  updates: "* * * * *"
+  uptime: "* * * * *"
