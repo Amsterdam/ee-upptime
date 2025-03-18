@@ -78,14 +78,14 @@
     "slug": "zsm-it-for-care",
     "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.91%",
     "time": 741,
-    "timeDay": 566,
+    "timeDay": 570,
     "timeWeek": 692,
-    "timeMonth": 761,
+    "timeMonth": 755,
     "timeYear": 741,
     "dailyMinutesDown": {
       "2025-03-17": 9,
@@ -95,21 +95,24 @@
     }
   },
   {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
+    "name": "Google",
+    "url": "https://google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/google.com.ico",
+    "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 148,
-    "timeDay": 70,
-    "timeWeek": 65,
-    "timeMonth": 111,
-    "timeYear": 148,
-    "dailyMinutesDown": {}
+    "uptimeYear": "0.00%",
+    "time": 176,
+    "timeDay": 144,
+    "timeWeek": 144,
+    "timeMonth": 144,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2025-02-13": 643,
+      "2025-02-12": 559
+    }
   }
 ]
