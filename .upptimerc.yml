@@ -19,8 +19,6 @@ sites:
     url: $ZSM_IT_FOR_CARE
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Google
-    url: https://google.com
 
 
 status-website:
