@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://api.data.amsterdam.nl/api/gemeente_Amsterdam_logo.svg
   name: Amsterdam Uptime
   introTitle: "Uptime status pagina voor Gemeente Amsterdam applicaties"
-  thene: light
+  theme: dark
   navbar:
     - title: Status
       href: /
