@@ -15,8 +15,8 @@ sites:
     url: $OMSLAG_ROUTE
   - name: ZSM It for care
     url: $ZSM_IT_FOR_CARE
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+  # - name: Wikipedia
+  #   url: https://en.wikipedia.org
 
 
 status-website:
