@@ -1,7 +1,7 @@
 url: $OMSLAG_ROUTE
-status: down
-code: 503
-responseTime: 640
-lastUpdated: 2025-03-19T20:03:24.667Z
+status: up
+code: 200
+responseTime: 1385
+lastUpdated: 2025-03-19T20:08:23.010Z
 startTime: 2025-02-17T09:50:34.285Z
 generator: Upptime <https://github.com/upptime/upptime>
