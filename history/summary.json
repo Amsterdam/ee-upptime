@@ -60,8 +60,8 @@
     "slug": "omslag-route-amsterdam",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1810,
@@ -70,7 +70,7 @@
     "timeMonth": 1825,
     "timeYear": 1810,
     "dailyMinutesDown": {
-      "2025-03-19": 0
+      "2025-03-19": 1
     }
   },
   {
