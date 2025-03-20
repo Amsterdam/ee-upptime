@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 494,
-    "timeWeek": 574,
-    "timeMonth": 571,
-    "timeYear": 564,
+    "time": 563,
+    "timeDay": 493,
+    "timeWeek": 573,
+    "timeMonth": 570,
+    "timeYear": 563,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 449,
-    "timeWeek": 363,
-    "timeMonth": 359,
-    "timeYear": 356,
+    "time": 355,
+    "timeDay": 448,
+    "timeWeek": 362,
+    "timeMonth": 358,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "$NETHERLANDS_MAP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "3-d-nederland",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 141,
     "timeDay": 130,
     "timeWeek": 143,
     "timeMonth": 142,
     "timeYear": 141,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-20": 4
+    }
   },
   {
     "name": "Omslag route Amsterdam",
@@ -66,7 +68,7 @@
     "uptimeYear": "99.98%",
     "time": 1752,
     "timeDay": 1620,
-    "timeWeek": 1795,
+    "timeWeek": 1794,
     "timeMonth": 1763,
     "timeYear": 1752,
     "dailyMinutesDown": {
@@ -84,11 +86,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.92%",
-    "time": 760,
-    "timeDay": 768,
+    "time": 759,
+    "timeDay": 766,
     "timeWeek": 761,
-    "timeMonth": 763,
-    "timeYear": 760,
+    "timeMonth": 762,
+    "timeYear": 759,
     "dailyMinutesDown": {
       "2025-03-17": 9,
       "2025-03-10": 8,
@@ -107,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 720,
-    "timeWeek": 720,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "time": 654,
+    "timeDay": 654,
+    "timeWeek": 654,
+    "timeMonth": 654,
+    "timeYear": 654,
     "dailyMinutesDown": {}
   }
 ]
