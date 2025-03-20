@@ -5,8 +5,6 @@ repo: ee-upptime
 sites:
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
-  # - name: Data Amsterdam
-  #   url: $SITE_URL_DATA_AMS
   - name: Iamsterdam website
     url: $IAMSTERDAM_URL
   - name: 3D Nederland
@@ -17,6 +15,8 @@ sites:
     url: $ZSM_IT_FOR_CARE
   - name: Meldingen Amsterdam
     url: $MELDINGEN_URL
+  - name: Data Amsterdam
+    url: $GEZONDE_SCHOOL_AMSTERDAM
 
 
 status-website:
