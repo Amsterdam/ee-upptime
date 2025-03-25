@@ -1,7 +1,7 @@
 url: $GEZONDE_SCHOOL_AMSTERDAM
-status: down
-code: 503
-responseTime: 20473
-lastUpdated: 2025-03-25T23:50:48.875Z
+status: up
+code: 200
+responseTime: 1917
+lastUpdated: 2025-03-25T23:52:23.472Z
 startTime: 2025-03-20T15:21:19.307Z
 generator: Upptime <https://github.com/upptime/upptime>
