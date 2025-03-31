@@ -48,10 +48,10 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 workflowSchedule:
-  graphs: "* * * * *"
-  responseTime: "* * * * *"
-  staticSite: "* * * * *"
-  summary: "* * * * *"
-  updateTemplate: "* * * * *"
-  updates: "* * * * *"
-  uptime: "* * * * *"
+  graphs: "0 */2 * * *"
+  responseTime: "0 */2 * * *"
+  staticSite: "0 */12 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/5 * * * *"
