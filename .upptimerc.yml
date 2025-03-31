@@ -5,18 +5,29 @@ repo: ee-upptime
 sites:
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
-  - name: Iamsterdam website
-    url: $IAMSTERDAM_URL
-  - name: 3D Nederland
-    url: $NETHERLANDS_MAP
+  - name: Data Amsterdam
+    url: $DATA_AMSTERDAM
+  - name: Bomen Amterdam
+    url: $BOMEN_AMSTERDAM
   - name: Omslag route Amsterdam
     url: $OMSLAG_ROUTE
-  - name: ZSM It for care
-    url: $ZSM_IT_FOR_CARE
+  - name: Amsterdam Maps
+    url: $MAPS_AMSTERDAM
   - name: Meldingen Amsterdam
     url: $MELDINGEN_URL
-  - name: Gezonde School
-    url: $GEZONDE_SCHOOL_AMSTERDAM
+  - name: Amsterdam Design System
+    url: $AMSTERDAM_DESIGN_SYSTEM
+  - name: Mijn Amsterdam
+    url: $MIJN_AMSTERDAM
+  - name: Amsterdam Sensoren
+    url: $SENSOREN_AMSTERDAM
+  - name: Amsterdam Open Stad
+    url: $OPEN_STAD
+  - name: Amsterdam Hior
+    url: $HIOR_AMSTERDAM
+  - name: Bereikbaarheid Amsterdam
+    url: $BEREIKBAARHIED_AMSTERDAM
+
 
 
 status-website:
