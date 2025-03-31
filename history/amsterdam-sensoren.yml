@@ -1,7 +1,7 @@
 url: $SENSOREN_AMSTERDAM
-status: down
-code: 404
-responseTime: 325
-lastUpdated: 2025-03-31T12:00:09.245Z
+status: up
+code: 200
+responseTime: 398
+lastUpdated: 2025-03-31T12:13:22.162Z
 startTime: 2025-03-31T12:00:08.619Z
 generator: Upptime <https://github.com/upptime/upptime>
