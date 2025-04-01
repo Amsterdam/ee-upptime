@@ -27,7 +27,7 @@ sites:
     url: $HIOR_AMSTERDAM
   - name: Bereikbaarheid Amsterdam
     url: $BEREIKBAARHIED_AMSTERDAM
-
+//
 
 
 status-website:
