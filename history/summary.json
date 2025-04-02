@@ -1,8 +1,8 @@
 [
   {
     "name": "Mijn Amsterdam",
-    "url": "$MIJN_AMSTERDAM",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "url": "https://mijn.amsterdam.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/mijn.amsterdam.nl.ico",
     "slug": "mijn-amsterdam",
     "status": "down",
     "uptime": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 683,
+      "2025-04-02": 704,
       "2025-04-01": 1440,
       "2025-03-31": 720
     }
