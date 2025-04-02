@@ -19,10 +19,11 @@ sites:
   #   url: $AMSTERDAM_DESIGN_SYSTEM
   - name: Mijn Amsterdam
     url: $MIJN_AMSTERDAM
-    method: HEAD
+    method: GET
     expectStatus: 200
-    options:
-      insecure: true
+    custom: |
+      curl -Ik -m 10 --retry 5 --retry-delay 5 $MIJN_AMSTERDAM || echo "Connection failed"
+
   # - name: Amsterdam Sensoren
   #   url: $SENSOREN_AMSTERDAM
   # - name: Amsterdam Open Stad
