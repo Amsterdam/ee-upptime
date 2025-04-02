@@ -78,19 +78,19 @@
     "url": "$BOMEN_AMSTERDAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bomen-amterdam",
-    "status": "up",
-    "uptime": "99.60%",
-    "uptimeDay": "99.24%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "99.16%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 4151,
     "timeDay": 4835,
     "timeWeek": 4151,
     "timeMonth": 4151,
     "timeYear": 4151,
     "dailyMinutesDown": {
-      "2025-04-02": 11
+      "2025-04-02": 12
     }
   },
   {
@@ -188,7 +188,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-02": 558,
+      "2025-04-02": 572,
       "2025-04-01": 1440,
       "2025-03-31": 720
     }
@@ -199,11 +199,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-sensoren",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.52%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "99.52%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.52%",
     "time": 451,
     "timeDay": 490,
     "timeWeek": 451,
