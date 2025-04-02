@@ -8,6 +8,10 @@ jobs:
   ssl-check:
     runs-on: ubuntu-latest
     steps:
+      - name: Update CA certificates
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ca-certificates
       - name: Test SSL with curl from GitHub Actions
         run: |
           curl -vI https://mijn.amsterdam.nl || echo "Connection failed"
