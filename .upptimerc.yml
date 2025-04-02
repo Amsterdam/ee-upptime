@@ -18,7 +18,7 @@ sites:
   # - name: Amsterdam Design System
   #   url: $AMSTERDAM_DESIGN_SYSTEM
   - name: Mijn Amsterdam
-    url: https://mijn.amsterdam.nl
+    url: $MIJN_AMSTERDAM
     method: HEAD
     expectStatus: 200
     options:
