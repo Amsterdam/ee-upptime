@@ -1,0 +1,14 @@
+name: Test Mijn Amsterdam Accessibility
+
+on: 
+  push:
+  schedule:
+    - cron: "* * * * *"
+
+jobs:
+  check-site:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Test if Mijn Amsterdam is reachable
+      run: curl -I https://mijn.amsterdam.nl || echo "Connection failed"
