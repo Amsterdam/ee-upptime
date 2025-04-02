@@ -8,10 +8,10 @@ jobs:
   ssl-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Update CA certificates
+      - name: Download DigiCert CA certificate
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ca-certificates
+          mkdir -p /etc/ssl/certs
+          curl -o /etc/ssl/certs/DigiCertCA.crt https://dl.cacerts.digicert.com/DigiCertG2TLSEURSA4096SHA3842022CA1.crt
       - name: Test SSL with curl from GitHub Actions
         run: |
-          curl -vI https://mijn.amsterdam.nl || echo "Connection failed"
+          curl -vI --cacert /etc/ssl/certs/DigiCertCA.crt https://mijn.amsterdam.nl || echo "Connection failed"
