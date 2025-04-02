@@ -19,6 +19,10 @@ sites:
   #   url: $AMSTERDAM_DESIGN_SYSTEM
   - name: Mijn Amsterdam
     url: https://mijn.amsterdam.nl
+    method: HEAD
+    expectStatus: 200
+    options:
+      insecure: true
   # - name: Amsterdam Sensoren
   #   url: $SENSOREN_AMSTERDAM
   # - name: Amsterdam Open Stad
