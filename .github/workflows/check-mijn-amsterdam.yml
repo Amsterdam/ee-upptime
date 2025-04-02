@@ -1,6 +1,6 @@
 name: Test Mijn Amsterdam Accessibility
 
-on: 
+on:
   push:
   schedule:
     - cron: "* * * * *"
@@ -11,4 +11,4 @@ jobs:
 
     steps:
     - name: Test if Mijn Amsterdam is reachable
-      run: curl -I https://mijn.amsterdam.nl || echo "Connection failed"
+      run: curl -Ik https://mijn.amsterdam.nl || echo "Connection failed"
