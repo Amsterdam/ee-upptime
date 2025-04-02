@@ -1,14 +1,13 @@
-name: Test Mijn Amsterdam Accessibility
+name: SSL Test in GitHub Actions
 
 on:
   push:
-  schedule:
-    - cron: "* * * * *"
+  workflow_dispatch:
 
 jobs:
-  check-site:
+  ssl-check:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Test if Mijn Amsterdam is reachable
-      run: curl -Ik https://mijn.amsterdam.nl || echo "Connection failed"
+      - name: Test SSL with curl from GitHub Actions
+        run: |
+          curl -vI https://mijn.amsterdam.nl || echo "Connection failed"
