@@ -11,10 +11,10 @@ jobs:
       - name: Create local cert directory
         run: mkdir -p ./certs
 
-      - name: Download DigiCert CA certificate
+      - name: Download DigiCert CA certificate in PEM format
         run: |
-          curl -o ./certs/DigiCertCA.crt https://dl.cacerts.digicert.com/DigiCertG2TLSEURSA4096SHA3842022CA1.crt
+          curl -o ./certs/DigiCertCA.pem https://www.digicert.com/CACerts/DigiCertG2TLSEURSA4096SHA3842022CA1.pem
 
       - name: Test SSL with curl from GitHub Actions
         run: |
-          curl -vI --cacert ./certs/DigiCertCA.crt https://mijn.amsterdam.nl || echo "Connection failed"
+          curl -vI --cacert ./certs/DigiCertCA.pem https://mijn.amsterdam.nl || echo "Connection failed"
