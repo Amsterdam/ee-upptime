@@ -1,7 +1,7 @@
-url: $MIJN_AMSTERDAM
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-03T13:48:06.515Z
+url: $AIP_AMSTERDAM
+status: up
+code: 200
+responseTime: 478
+lastUpdated: 2025-04-03T13:51:37.212Z
 startTime: 2025-04-03T13:48:06.510Z
 generator: Upptime <https://github.com/upptime/upptime>
