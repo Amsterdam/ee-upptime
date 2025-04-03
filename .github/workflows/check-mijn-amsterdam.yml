@@ -8,13 +8,18 @@ jobs:
   ssl-check:
     runs-on: ubuntu-latest
     steps:
-      - name: Create local cert directory
-        run: mkdir -p ./certs
-
-      - name: Download DigiCert CA certificate in PEM format
+      - name: SSL controle met curl
         run: |
-          curl -o ./certs/DigiCertCA.pem https://www.digicert.com/CACerts/DigiCertG2TLSEURSA4096SHA3842022CA1.pem
+          URL="https://mijn.amsterdam.nl"
+          echo "Controleer SSL-status voor $URL..."
 
-      - name: Test SSL with curl from GitHub Actions
-        run: |
-          curl -vI --cacert ./certs/DigiCertCA.pem https://mijn.amsterdam.nl || echo "Connection failed"
+          response=$(curl -vI --silent $URL 2>&1)
+
+          echo "$response"
+
+          if echo "$response" | grep -q "SSL certificate problem"; then
+              echo "SSL-certificaatfout: unable to get local issuer certificate"
+              exit 1
+          else
+              echo "Geen SSL-certificaatfout gedetecteerd"
+          fi
