@@ -18,7 +18,7 @@ sites:
   - name: Amsterdam Design System
     url: $AMSTERDAM_DESIGN_SYSTEM
   - name: AIP Amsterdam
-    url: $MIJN_AMSTERDAM
+    url: $AIP_AMSTERDAM
   - name: Amsterdam Sensoren
     url: $SENSOREN_AMSTERDAM
   - name: Amsterdam Open Stad
