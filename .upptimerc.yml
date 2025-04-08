@@ -31,8 +31,8 @@ sites:
     url: $JVVS_AMSTERDAM
   - name: Schuld Dossier
     url: $SCHULD_DOSSIER
-  # - name: Straat notes
-  #   url: $STRAAT_NOTES
+  - name: Straat notes
+    url: $STRAAT_NOTES
 
 
 status-website:
