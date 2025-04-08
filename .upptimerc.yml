@@ -5,34 +5,34 @@ repo: ee-upptime
 sites:
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
-  - name: Data Amsterdam
-    url: $DATA_AMSTERDAM
-  - name: Bomen Amterdam
-    url: $BOMEN_AMSTERDAM
-  - name: Omslag route Amsterdam
-    url: $OMSLAG_ROUTE
-  - name: Amsterdam Maps
-    url: $MAPS_AMSTERDAM
-  - name: Meldingen Amsterdam
-    url: $MELDINGEN_URL
-  - name: Amsterdam Design System
-    url: $AMSTERDAM_DESIGN_SYSTEM
-  - name: AIP Amsterdam
-    url: $AIP_AMSTERDAM
-  - name: Amsterdam Sensoren
-    url: $SENSOREN_AMSTERDAM
-  - name: Amsterdam Open Stad
-    url: $OPEN_STAD
-  - name: Amsterdam Hior
-    url: $HIOR_AMSTERDAM
-  - name: Bereikbaarheid Amsterdam
-    url: $BEREIKBAARHIED_AMSTERDAM
-  - name: Jvvs Amsterdam
-    url: $JVVS_AMSTERDAM
-  - name: Schuld Dossier
-    url: $SCHULD_DOSSIER
-  - name: Straat notes
-    url: $STRAAT_NOTES
+  # - name: Data Amsterdam
+  #   url: $DATA_AMSTERDAM
+  # - name: Bomen Amterdam
+  #   url: $BOMEN_AMSTERDAM
+  # - name: Omslag route Amsterdam
+  #   url: $OMSLAG_ROUTE
+  # - name: Amsterdam Maps
+  #   url: $MAPS_AMSTERDAM
+  # - name: Meldingen Amsterdam
+  #   url: $MELDINGEN_URL
+  # - name: Amsterdam Design System
+  #   url: $AMSTERDAM_DESIGN_SYSTEM
+  # - name: AIP Amsterdam
+  #   url: $AIP_AMSTERDAM
+  # - name: Amsterdam Sensoren
+  #   url: $SENSOREN_AMSTERDAM
+  # - name: Amsterdam Open Stad
+  #   url: $OPEN_STAD
+  # - name: Amsterdam Hior
+  #   url: $HIOR_AMSTERDAM
+  # - name: Bereikbaarheid Amsterdam
+  #   url: $BEREIKBAARHIED_AMSTERDAM
+  # - name: Jvvs Amsterdam
+  #   url: $JVVS_AMSTERDAM
+  # - name: Schuld Dossier
+  #   url: $SCHULD_DOSSIER
+  # - name: Straat notes
+  #   url: $STRAAT_NOTES
 
 
 status-website:
