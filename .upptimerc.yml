@@ -3,6 +3,8 @@ owner: amsterdam
 repo: ee-upptime
 
 sites:
+  - name: Mijn Amsterdam
+    url: https://mijn.amsterdam.nl
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
   - name: Data Amsterdam
