@@ -29,12 +29,12 @@ sites:
     url: $HIOR_AMSTERDAM
   - name: Bereikbaarheid Amsterdam
     url: $BEREIKBAARHIED_AMSTERDAM
-  # - name: Jvvs Amsterdam
-  #   url: $JVVS_AMSTERDAM
-  # - name: Schuld Dossier
-  #   url: $SCHULD_DOSSIER
-  # - name: Straat notes
-  #   url: $STRAAT_NOTES
+  - name: Jvvs Amsterdam
+    url: $JVVS_AMSTERDAM
+  - name: Schuld Dossier
+    url: $SCHULD_DOSSIER
+  - name: Straat notes
+    url: $STRAAT_NOTES
 
 
 status-website:
