@@ -4,7 +4,7 @@ repo: ee-upptime
 
 sites:
   - name: Mijn Amsterdam
-    url: https://mijn.amsterdam.nl
+    url: $MIJN_AMSTERDAM
   - name: Developers Amsterdam
     url: $SITE_DEVELOPERS_AMSTERDAM
   - name: Data Amsterdam
