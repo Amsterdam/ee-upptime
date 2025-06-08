@@ -1,7 +1,7 @@
 url: $STRAAT_NOTES
-status: down
-code: 502
-responseTime: 322
-lastUpdated: 2025-06-08T21:22:11.612Z
+status: up
+code: 200
+responseTime: 994
+lastUpdated: 2025-06-08T21:30:52.731Z
 startTime: 2025-04-10T07:19:26.970Z
 generator: Upptime <https://github.com/upptime/upptime>
