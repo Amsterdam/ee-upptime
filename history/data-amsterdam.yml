@@ -1,7 +1,7 @@
 url: $DATA_AMSTERDAM
-status: down
-code: 502
-responseTime: 457
-lastUpdated: 2025-08-07T06:04:57.846Z
+status: up
+code: 200
+responseTime: 765
+lastUpdated: 2025-08-07T07:27:47.909Z
 startTime: 2025-04-08T08:28:40.239Z
 generator: Upptime <https://github.com/upptime/upptime>
