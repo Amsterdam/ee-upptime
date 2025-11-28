@@ -1,7 +1,7 @@
 url: $BOMEN_AMSTERDAM
-status: up
-code: 200
-responseTime: 1547
-lastUpdated: 2025-11-28T02:31:33.635Z
+status: down
+code: 404
+responseTime: 29541
+lastUpdated: 2025-11-28T04:05:51.928Z
 startTime: 2025-04-08T08:28:41.055Z
 generator: Upptime <https://github.com/upptime/upptime>
