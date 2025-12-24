@@ -1,7 +1,7 @@
 url: $OPEN_STAD
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-12-24T19:29:12.505Z
+status: up
+code: 200
+responseTime: 1201
+lastUpdated: 2025-12-24T19:36:49.779Z
 startTime: 2025-04-08T08:28:49.821Z
 generator: Upptime <https://github.com/upptime/upptime>
