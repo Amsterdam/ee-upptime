@@ -1,7 +1,7 @@
 url: $JVVS_AMSTERDAM
-status: up
-code: 200
-responseTime: 945
-lastUpdated: 2026-01-08T18:04:13.245Z
+status: down
+code: 500
+responseTime: 10448
+lastUpdated: 2026-01-08T19:42:52.478Z
 startTime: 2025-04-10T07:19:25.238Z
 generator: Upptime <https://github.com/upptime/upptime>
