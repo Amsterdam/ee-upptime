@@ -1,7 +1,7 @@
 url: $AIP_AMSTERDAM
-status: down
-code: 503
-responseTime: 377
-lastUpdated: 2026-01-31T22:42:29.650Z
+status: up
+code: 200
+responseTime: 394
+lastUpdated: 2026-01-31T22:53:18.070Z
 startTime: 2025-04-08T08:28:48.193Z
 generator: Upptime <https://github.com/upptime/upptime>
