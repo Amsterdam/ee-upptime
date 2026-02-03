@@ -1,7 +1,7 @@
 url: $SCHULD_DOSSIER
-status: down
-code: 502
-responseTime: 538
-lastUpdated: 2026-02-03T08:09:57.606Z
+status: up
+code: 200
+responseTime: 536
+lastUpdated: 2026-02-03T08:25:28.169Z
 startTime: 2025-04-10T07:19:26.278Z
 generator: Upptime <https://github.com/upptime/upptime>
