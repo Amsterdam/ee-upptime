@@ -1,7 +1,7 @@
 url: $HIOR_AMSTERDAM
-status: up
-code: 200
-responseTime: 418
-lastUpdated: 2026-02-14T06:12:35.475Z
+status: down
+code: 403
+responseTime: 408
+lastUpdated: 2026-02-14T07:43:09.378Z
 startTime: 2025-04-08T08:28:51.652Z
 generator: Upptime <https://github.com/upptime/upptime>
