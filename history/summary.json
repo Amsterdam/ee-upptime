@@ -13,7 +13,7 @@
     "time": 462,
     "timeDay": 413,
     "timeWeek": 391,
-    "timeMonth": 414,
+    "timeMonth": 413,
     "timeYear": 463,
     "dailyMinutesDown": {
       "2025-08-13": 28,
@@ -93,8 +93,8 @@
     "time": 1914,
     "timeDay": 2278,
     "timeWeek": 2252,
-    "timeMonth": 2260,
-    "timeYear": 1902,
+    "timeMonth": 2259,
+    "timeYear": 1901,
     "dailyMinutesDown": {
       "2025-06-06": 12,
       "2025-06-10": 48,
@@ -138,7 +138,7 @@
     "time": 1499,
     "timeDay": 1128,
     "timeWeek": 1161,
-    "timeMonth": 1153,
+    "timeMonth": 1152,
     "timeYear": 1489,
     "dailyMinutesDown": {
       "2025-06-08": 16,
@@ -158,11 +158,11 @@
     "url": "$MAPS_AMSTERDAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-maps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "94.63%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "99.21%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "99.67%",
     "time": 685,
     "timeDay": 606,
@@ -170,7 +170,6 @@
     "timeMonth": 628,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-12-23": 7,
       "2025-12-28": 115,
       "2026-01-02": 20,
       "2026-01-03": 10,
@@ -233,7 +232,7 @@
       "2026-05-13": 22,
       "2026-05-25": 87,
       "2026-06-02": 25,
-      "2026-06-03": 52
+      "2026-06-03": 54
     }
   },
   {
@@ -297,7 +296,7 @@
     "time": 504,
     "timeDay": 486,
     "timeWeek": 468,
-    "timeMonth": 477,
+    "timeMonth": 476,
     "timeYear": 505,
     "dailyMinutesDown": {
       "2025-06-10": 48,
@@ -351,7 +350,7 @@
     "time": 1418,
     "timeDay": 1410,
     "timeWeek": 1398,
-    "timeMonth": 1426,
+    "timeMonth": 1425,
     "timeYear": 1408,
     "dailyMinutesDown": {
       "2025-06-10": 57,
@@ -416,7 +415,7 @@
     "time": 435,
     "timeDay": 369,
     "timeWeek": 386,
-    "timeMonth": 381,
+    "timeMonth": 380,
     "timeYear": 435,
     "dailyMinutesDown": {
       "2025-06-10": 48,
@@ -440,7 +439,7 @@
     "time": 1033,
     "timeDay": 3528,
     "timeWeek": 1690,
-    "timeMonth": 1348,
+    "timeMonth": 1349,
     "timeYear": 1043,
     "dailyMinutesDown": {
       "2025-06-21": 21,
