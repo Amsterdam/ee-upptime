@@ -156,16 +156,16 @@
     "url": "$MAPS_AMSTERDAM",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "amsterdam-maps",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "76.27%",
-    "uptimeWeek": "89.12%",
-    "uptimeMonth": "97.22%",
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "74.31%",
+    "uptimeWeek": "88.84%",
+    "uptimeMonth": "97.16%",
     "uptimeYear": "99.56%",
     "time": 685,
-    "timeDay": 670,
-    "timeWeek": 636,
-    "timeMonth": 625,
+    "timeDay": 686,
+    "timeWeek": 639,
+    "timeMonth": 626,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2026-02-06": 19,
@@ -215,7 +215,7 @@
       "2026-06-05": 244,
       "2026-06-06": 246,
       "2026-06-07": 294,
-      "2026-06-08": 49
+      "2026-06-08": 77
     }
   },
   {
